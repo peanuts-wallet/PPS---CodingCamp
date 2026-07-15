@@ -14,5 +14,4 @@ class Solution:
                 cookie += 1
             else:
                 cookie += 1
-
         return count

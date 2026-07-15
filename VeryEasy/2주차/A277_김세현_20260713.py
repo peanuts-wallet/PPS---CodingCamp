@@ -1,5 +1,5 @@
 class Solution:
-    def findCenter(self, edges: List[List[int]]) -> int:
+    def findCenter(self, edges: List[List[int]]) -  w> int:
         flag = 0
         count = 0
         target = edges[0][0]
